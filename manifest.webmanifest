@@ -1,0 +1,10 @@
+{
+  "name": "Tipi-Topi",
+  "short_name": "Tipi-Topi",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#1d2b3a",
+  "theme_color": "#8fd3f4",
+  "icons": [{ "src": "assets/sprites/hero_normal.png", "sizes": "248x295", "type": "image/png" }]
+}

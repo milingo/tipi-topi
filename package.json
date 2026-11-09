@@ -1,0 +1,11 @@
+{
+  "name": "tipi-topi",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Tipi-Topi: plataformas 2D (Phaser 3). Sin dependencias: npm start",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "sprites": "sh tools/run.sh"
+  }
+}
